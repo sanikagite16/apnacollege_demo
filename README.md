@@ -1,4 +1,4 @@
 # apnacollege_demo
 This is my first Git Repository.
 <br>
-Author - Sanika Gite
+Author - Sanika Gite (STUDENT)
